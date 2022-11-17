@@ -1,4 +1,4 @@
-## Olá, eu sou a Andressa! 👩🏽‍💻
+## Olá! 👩🏽‍💻
 
 <div align="center">
   <a href="https://github.com/andressaferw">
