@@ -22,16 +22,18 @@
  <img align= "center" alt="Andressa-Java" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
  <img align= "center" alt="Andressa-JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
  <img align= "center" alt="Andressa-HTML" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
- <img align= "center" alt="Andressa-CSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />                
+ <img align= "center" alt="Andressa-CSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />   
 </div>
+
 
 ##
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/andressaferw">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressaferw&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://git.io/streak-stats"><img height="160em" src="https://streak-stats.demolab.com?user=andressaferw&theme=dracula" alt="GitHub Streak" /></a>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andressaferw&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
- </div>
+  </div>
     
 ---
 
